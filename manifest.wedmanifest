@@ -1,0 +1,22 @@
+{
+  "name": "Insight Hunter — Launch & Growth Kit",
+  "short_name": "IH Launch Kit",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "description": "Insight Hunter — AI-powered CFO assistant. Launch, growth, and beta program kit as a PWA.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
