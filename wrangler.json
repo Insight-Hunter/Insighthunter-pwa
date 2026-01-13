@@ -1,0 +1,8 @@
+{
+  "name": "insight-hunter-pwa",
+  "compatibility_date": "2026-01-13",
+  "main": "index.ts",
+  "observability": {
+    "enabled": true
+  }
+}
